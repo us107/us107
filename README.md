@@ -1,4 +1,5 @@
-![242390863-c552be39-25aa-4f5a-8421-54aa11f7131f](https://github.com/us107/us107/assets/115691766/42a6ecaf-4e25-4a1c-a7e3-c5b10010268d)# Hey there! fellow coders: <img src="https://github.com/us107/us107/assets/115691766/d1519347-3a3e-402a-b740-53132ecdbee9" width="100">
+
+# Hey there! fellow coders: <img src="https://github.com/us107/us107/assets/115691766/d1519347-3a3e-402a-b740-53132ecdbee9" width="100">
 
 Howdy, party people! 🌟 I'm Trisha Sharma, navigating the magical world of B.Tech in Data Science and Engineering at Manipal University Jaipur. By day, I'm a coding wizard; by night, a tech explorer; and around the clock, a design aficionado! 🚀✨ Ready to join me on this rollercoaster? Let's conjure up some tech and design magic together! 🎩🔮
 
@@ -23,7 +24,7 @@ Oh, and heads up, I'm not just a student – I'm also a proud card-carrying memb
 ![](https://github-contributor-stats.vercel.app/api?username=us107&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 
-### 
+### Show some ❤️ by starring some of the repositories!
 <div align="center">
-  <img src="242390863-c552be39-25aa-4f5a-8421-54aa11f7131f.gif" width="200">
+  <img src="242390863-c552be39-25aa-4f5a-8421-54aa11f7131f.gif" width="150">
 </div>
