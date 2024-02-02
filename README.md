@@ -1,4 +1,5 @@
-# Hey there! fellow coders: ![238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9](https://github.com/us107/us107/assets/115691766/d1519347-3a3e-402a-b740-53132ecdbee9)
+# Hey there! fellow coders: <img src="https://github.com/us107/us107/assets/115691766/d1519347-3a3e-402a-b740-53132ecdbee9" width="100">
+
 
 Howdy, I'm Trisha Sharma, on a thrilling journey through my second year in B.Tech—Data Science and Engineering at Manipal University Jaipur. Coding wizard by day, tech explorer by night, and a design aficionado all the time. Ready for a wild ride? Let's make tech and design magic happen! 
 
