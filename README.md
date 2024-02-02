@@ -1,6 +1,6 @@
 # Hey there! fellow coders: <img src="https://github.com/us107/us107/assets/115691766/d1519347-3a3e-402a-b740-53132ecdbee9" width="100">
 
-Howdy people! 🌟 I'm Trisha Sharma, navigating the magical world of B.Tech in Data Science and Engineering at Manipal University Jaipur. By day, I'm a coding wizard; by night, a tech explorer; and around the clock, a design aficionado! 🚀✨ Ready to join me on this rollercoaster? Let's conjure up some tech and design magic together! 🎩🔮
+🌟 I'm Trisha Sharma, navigating the magical world of B.Tech in Data Science and Engineering at Manipal University Jaipur. By day, I'm a coding wizard; by night, a tech explorer; and around the clock, a design aficionado! 🚀✨ Ready to join me on this rollercoaster? Let's conjure up some tech and design magic together! 🎩🔮
 
 Oh, and heads up, I'm not just a student – I'm also a proud card-carrying member of the Jujutsu Kaisen (JJK) fandom and a certified Brooklyn Nine-Nine (B99) enthusiast! 🌟📺 Let the fun and fandom begin! 🎉🤩
 
