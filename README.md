@@ -1,9 +1,10 @@
-# Hey there! fellow coders: <img src="https://github.com/us107/us107/assets/115691766/d1519347-3a3e-402a-b740-53132ecdbee9" width="100">
+![242390863-c552be39-25aa-4f5a-8421-54aa11f7131f](https://github.com/us107/us107/assets/115691766/42a6ecaf-4e25-4a1c-a7e3-c5b10010268d)# Hey there! fellow coders: <img src="https://github.com/us107/us107/assets/115691766/d1519347-3a3e-402a-b740-53132ecdbee9" width="100">
 
+Howdy, party people! 🌟 I'm Trisha Sharma, navigating the magical world of B.Tech in Data Science and Engineering at Manipal University Jaipur. By day, I'm a coding wizard; by night, a tech explorer; and around the clock, a design aficionado! 🚀✨ Ready to join me on this rollercoaster? Let's conjure up some tech and design magic together! 🎩🔮
 
-Howdy, I'm Trisha Sharma, on a thrilling journey through my second year in B.Tech—Data Science and Engineering at Manipal University Jaipur. Coding wizard by day, tech explorer by night, and a design aficionado all the time. Ready for a wild ride? Let's make tech and design magic happen! 
+Oh, and heads up, I'm not just a student – I'm also a proud card-carrying member of the Jujutsu Kaisen (JJK) fandom and a certified Brooklyn Nine-Nine (B99) enthusiast! 🌟📺 Let the fun and fandom begin! 🎉🤩
 
-![mario](https://github.com/us107/us107/assets/115691766/fbe0ffb7-cdc4-47f5-99aa-71181e70f2c9)
+<img src="https://github.com/us107/us107/assets/115691766/fbe0ffb7-cdc4-47f5-99aa-71181e70f2c9" width="250">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ts299837) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/trisha-sharma-871544251) 
@@ -16,10 +17,13 @@ Howdy, I'm Trisha Sharma, on a thrilling journey through my second year in B.Tec
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=us107&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### For me coding be like:
-![212744275-c56a72c2-50b1-45e2-a693-d19d40357766](https://github.com/us107/us107/assets/115691766/1e4dde6c-3464-401a-8cf4-6d3ee518df7f)
+<img src="240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif" width="180">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=us107&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 
+<div align="center">
+  <img src="242390863-c552be39-25aa-4f5a-8421-54aa11f7131f.gif" width="200">
+</div>
