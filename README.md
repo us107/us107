@@ -26,4 +26,4 @@ Oh, and heads up, I'm not just a student – I'm also a proud card-carrying memb
 
 ### Show some ❤️ by starring some of the repositories!
 
-![](https://media.giphy.com/media/dQpx1nP9mgUqzB33Tt/giphy.gif)
+![](https://media.giphy.com/media/Md9XIvQtwZ4xkHh9CY/giphy.gif)
